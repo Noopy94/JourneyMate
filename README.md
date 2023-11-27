@@ -38,28 +38,29 @@
   <!-- 로그인이 필요한 경우, 사용 가능한 테스트 계정(ID/PW) 기입 -->
   - 테스트 계정: 카카오 로그인만 가능하여 X
 
+-아키텍처
+![아키텍처](./img/아키텍처.png)
+
 <!-- 자유 양식 -->
 
 ## 프로젝트 UI/기능
 
-![GIF 1](./img/gif1.gif)
-- **소제목 1:** 첫 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
-  GIF 1의 설명을 여기에 추가하세요.
+- 로그인 후 자신의 일정 관리 접속(Mate-service) 
+![GIF 1](./img/gif1.gif)  
 
-![GIF 2](./img/gif2.gif)
-- **소제목 2:** 두 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
-  GIF 2의 설명을 여기에 추가하세요.
+- 여행 그룹 생성(Mate-service)
+![GIF 2](./img/gif2.gif)  
 
-![GIF 3](./img/gif3.gif)
-- **소제목 3:** 세 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
-  GIF 3의 설명을 여기에 추가하세요.
+- 여행 그룹 내 문서, 이미지 관리(Mate-service)
+![GIF 3](./img/gif3.gif)  
 
-1. 
-<img src="./img/gif1.gif" alt="gif1" width="200" height="400" />
+![GIF 4](./img/gif4.gif)  
 
+- 여행 그룹 내 채팅 서비스(Chat-service)
+![GIF 5](./img/gif5.gif)
 
-
-
+- 여행 일정 등록 및 관리, GoogleMap 사용(Journey-service)
+![GIF 6](./img/gif6.gif)  
 
 ## 팀 소개
 
