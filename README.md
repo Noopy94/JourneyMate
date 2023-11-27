@@ -42,8 +42,20 @@
 
 ## 프로젝트 UI/기능
 
+![GIF 1](./img/gif1.gif)
+- **소제목 1:** 첫 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
+  GIF 1의 설명을 여기에 추가하세요.
 
-<img src="./img/gif1.gif" alt="gif1" />
+![GIF 2](./img/gif2.gif)
+- **소제목 2:** 두 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
+  GIF 2의 설명을 여기에 추가하세요.
+
+![GIF 3](./img/gif3.gif)
+- **소제목 3:** 세 번째 GIF 이미지에 대한 소제목을 여기에 작성하세요.
+  GIF 3의 설명을 여기에 추가하세요.
+
+1. 
+<img src="./img/gif1.gif" alt="gif1" width="200" height="400" />
 
 
 
