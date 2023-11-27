@@ -45,22 +45,22 @@
 
 ## 프로젝트 UI/기능
 
-- 로그인 후 자신의 일정 관리 접속(Mate-service) 
+- 로그인 후 자신의 일정 관리 접속(Mate-service)   
 ![GIF 1](./img/gif1.gif)  
 
-- 여행 그룹 생성(Mate-service)
+- 여행 그룹 생성(Mate-service)  
 ![GIF 2](./img/gif2.gif)  
 
-- 여행 그룹 문서 관리(Mate-service)
+- 여행 그룹 문서 관리(Mate-service)  
 ![GIF 3](./img/gif3.gif)
 
-- 여행 그룹 사진 관리(Mate-service)
+- 여행 그룹 사진 관리(Mate-service)  
 ![GIF 4](./img/gif4.gif)    
 
-- 여행 그룹 내 채팅 서비스(Chat-service)
+- 여행 그룹 내 채팅 서비스(Chat-service)  
 ![GIF 5](./img/gif5.gif)
 
-- 여행 일정 등록 및 관리, GoogleMap 사용(Journey-service)
+- 여행 일정 등록 및 관리, GoogleMap 사용(Journey-service)  
 ![GIF 6](./img/gif6.gif)  
 
 ## 팀 소개
