@@ -51,10 +51,11 @@
 - 여행 그룹 생성(Mate-service)
 ![GIF 2](./img/gif2.gif)  
 
-- 여행 그룹 내 문서, 이미지 관리(Mate-service)
-![GIF 3](./img/gif3.gif)  
+- 여행 그룹 문서 관리(Mate-service)
+![GIF 3](./img/gif3.gif)
 
-![GIF 4](./img/gif4.gif)  
+- 여행 그룹 사진 관리(Mate-service)
+![GIF 4](./img/gif4.gif)    
 
 - 여행 그룹 내 채팅 서비스(Chat-service)
 ![GIF 5](./img/gif5.gif)
